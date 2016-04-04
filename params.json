@@ -1,6 +1,6 @@
 {
   "name": "jenfs",
   "tagline": "\"the world is one big data problem\"",
-  "body": "# hola\r\nI love data. Here are some mini-projects I've done in my spare time.\r\n\r\n# visualizations\r\nMost of these are done in D3.\r\n\r\n\r\n\r\n# data analysis notebooks\r\nThese are notebooks for mini-projects on web-scraping, data analysis and visualization. The impetus for each is a simple question such as \"What place in the U.S. is most removed from any National Landmark?\"\r\n\r\n\r\n\r\n",
+  "body": "# hola\r\nI love data. Here are some mini-projects I've done in my spare time.\r\n\r\n# visualizations\r\nMost of these are done in D3.\r\n### West Nile Virus Cases in California\r\nCartogram and zoomable, stacked bar chart show geographic and temporal trends. Implemented in D3.\r\n<a href=\"./west_nile_california/\"><img src=\"./west_nile_california/teaser.png\" /></a>\r\n\r\n\r\n# data analysis notebooks\r\nThese are notebooks for mini-projects on web-scraping, data analysis and visualization. The impetus for each is a simple question such as \"What place in the U.S. is most removed from any National Landmark?\"\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
